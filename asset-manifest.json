@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e1747fe.css",
-    "main.js": "/static/js/main.ac2c9bc9.js",
+    "main.css": "/static/css/main.b204ca38.css",
+    "main.js": "/static/js/main.7b8b919f.js",
     "static/media/Resume-Anshu-Upadhyay.pdf": "/static/media/Resume-Anshu-Upadhyay.2087bc43e0ee23e662a1.pdf",
     "static/media/java.jpg": "/static/media/java.ca13285a257895614505.jpg",
     "static/media/amazon-clone.png": "/static/media/amazon-clone.d82160cf6ec77cf4aa0c.png",
@@ -18,11 +18,11 @@
     "static/media/c.png": "/static/media/c.ea1c5d4e3574f2389ddb.png",
     "static/media/css.png": "/static/media/css.cbea6150e2917bd6f0f3.png",
     "index.html": "/index.html",
-    "main.3e1747fe.css.map": "/static/css/main.3e1747fe.css.map",
-    "main.ac2c9bc9.js.map": "/static/js/main.ac2c9bc9.js.map"
+    "main.b204ca38.css.map": "/static/css/main.b204ca38.css.map",
+    "main.7b8b919f.js.map": "/static/js/main.7b8b919f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e1747fe.css",
-    "static/js/main.ac2c9bc9.js"
+    "static/css/main.b204ca38.css",
+    "static/js/main.7b8b919f.js"
   ]
 }
